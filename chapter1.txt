@@ -1,2 +1,4 @@
-It was the best of times it was the worst of space.
+Hello Angela
+Thanks a lot.
+I had a nice time learning version control.
 
